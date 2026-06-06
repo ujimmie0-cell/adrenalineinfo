@@ -1,6 +1,10 @@
 [
   {
+    "date": "Jun 06, 2026",
+    "title": "Fixed the changelog."
+  },
+  {
     "date": "Jun 04, 2026",
     "title": "Link generation fully added. Games section / favoriting fully fixed."
-  },
+  }
 ]
